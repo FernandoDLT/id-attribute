@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+#myHeader {
+    color: black;
+    text-align: center;
+    background-color: lightblue;
+    padding: 40px;
+}
